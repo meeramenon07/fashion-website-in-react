@@ -1,13 +1,13 @@
 
 import React from "react";
-import MultiplePizzas from "../assets/multiplePizzas.jpeg";
+import pexels-artem-beliaikin-1102225 from "../assets/pexels-artem-beliaikin-1102225.jpg";
 import "../styles/About.css";
 function About() {
   return (
     <div className="about">
       <div
         className="aboutTop"
-        style={{ backgroundImage: `url(${MultiplePizzas})` }}
+        style={{ backgroundImage: `url(${pexels-artem-beliaikin-1102225})` }}
       ></div>
       <div className="aboutBottom">
         <h1> ABOUT US</h1>
