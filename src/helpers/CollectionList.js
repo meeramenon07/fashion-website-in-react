@@ -1,4 +1,4 @@
-import bag1 from "../assets/bag1.jpg";
+import pexels-artem-beliaikin-1102225.jpg from "../assets/pexels-artem-beliaikin-1102225.jpg";
 import bag2 from "../assets/bag2.jpg";
 import bag3 from "../assets/bag3.jpg";
 import bag4 from "../assets/bag4.jpg";
