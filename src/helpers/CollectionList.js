@@ -1,7 +1,7 @@
 import pexels-artem-beliaikin-1102225 from "../assets/pexels-artem-beliaikin-1102225.jpg";
 import pexels-artem-beliaikin-2534961" from "../assets/pexels-artem-beliaikin-2534961.jpg";
 import pexels-godisable-jacob-1374910" from "../assets/pexels-godisable-jacob-1374910.jpg";
-import bag4 from "../assets/bag4.jpg";
+import pexels-godisable-jacob-1943465" from "../assets/pexels-godisable-jacob-1943465.jpg";
 import bag5 from "../assets/bag5.jpg";
 import bag6 from "../assets/bag6.jpg";
 
@@ -22,8 +22,8 @@ export const CollectionList = [
     price: 256.00,
   },
   {
-    name: "bag4",
-    image: bag4,
+    name: "pexels-godisable-jacob-1943465,
+    image: pexels-godisable-jacob-1943465,
     price: 199.00,
   },
   {
