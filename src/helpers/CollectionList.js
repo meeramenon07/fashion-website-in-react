@@ -2,7 +2,7 @@ import pexels-artem-beliaikin-1102225 from "../assets/pexels-artem-beliaikin-110
 import pexels-artem-beliaikin-2534961" from "../assets/pexels-artem-beliaikin-2534961.jpg";
 import pexels-godisable-jacob-1374910" from "../assets/pexels-godisable-jacob-1374910.jpg";
 import pexels-godisable-jacob-1943465" from "../assets/pexels-godisable-jacob-1943465.jpg";
-import bag5 from "../assets/bag5.jpg";
+import pexels-jeffrey-paa-kwesi-opare-3148244"../assets/bag5.jpg";
 import bag6 from "../assets/bag6.jpg";
 
 export const CollectionList = [
