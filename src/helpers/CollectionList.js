@@ -8,7 +8,7 @@ import bag6 from "../assets/bag6.jpg";
 export const CollectionList = [
   {
     name: "pexels-artem-beliaikin-1102225",
-    image: pexels-artem-beliaikin-1102225
+    image: pexels-artem-beliaikin-1102225,
     price: 160.00,
   },
   {
@@ -18,7 +18,7 @@ export const CollectionList = [
   },
   {
     name: "pexels-godisable-jacob-1374910",
-    image: pexels-godisable-jacob-1374910
+    image: pexels-godisable-jacob-1374910,
     price: 256.00,
   },
   {
