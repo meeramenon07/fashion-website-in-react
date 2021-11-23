@@ -4,6 +4,8 @@ import pexels-godisable-jacob-1374910 from "../assets/pexels-godisable-jacob-137
 import pexels-godisable-jacob-1943465 from "../assets/pexels-godisable-jacob-1943465.jpg";
 import pexels-jeffrey-paa-kwesi-opare-3148244 from "../assets/pexels-jeffrey-paa-kwesi-opare-3148244.jpg";
 import pexels-magda-ehlers-1337384 from "../assets/pexels-magda-ehlers-1337384.jpg";
+import pexels-vlada-karpovich-4452707 from "../assets/pexels-vlada-karpovich-4452707.jpg";
+
 
 export const CollectionList = [
   {
