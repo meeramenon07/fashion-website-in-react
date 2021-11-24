@@ -39,13 +39,13 @@ export const CollectionList = [
     price: 205.00,
   },
   {
-    name:
-    image:
-    price:
+    name:"pexels-vlada-karpovich-4452707",
+    image:pexels-vlada-karpovich-4452707,
+    price:430.00,
   },
   {
     name:"pexels-анна-хазова-5629275",
     image:pexels-анна-хазова-5629275,
-    price:700.00
+    price:700.00,
   },
 ];
