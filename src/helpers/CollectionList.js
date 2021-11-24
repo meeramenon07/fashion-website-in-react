@@ -38,4 +38,14 @@ export const CollectionList = [
     image: pexels-magda-ehlers-1337384,
     price: 205.00,
   },
+  {
+    name:
+    image:
+    price:
+  },
+  {
+    name:
+    image:
+    price:
+  },
 ];
