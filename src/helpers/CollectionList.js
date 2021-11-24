@@ -44,8 +44,8 @@ export const CollectionList = [
     price:
   },
   {
-    name:
-    image:
-    price:
+    name:"pexels-анна-хазова-5629275",
+    image:pexels-анна-хазова-5629275,
+    price:700.00
   },
 ];
